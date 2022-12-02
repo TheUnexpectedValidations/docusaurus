@@ -9,7 +9,7 @@
 
 <div align="center">
     <h2>Get Started</h2>
-    <a>To get started, press one of the buttons below to deploy Plooshi Docs</a>
+    <a>To get started, press one of the buttons below to deploy Docusaurus (Beta)!</a>
     <br>
     <br>
     <a href="https://render.com/deploy?repo=https://github.com/TheUnexpectedValidations/docusaurus"><img height="30px" src="https://img.shields.io/badge/render-4f65f1.svg?style=for-the-badge&logo=render&logoColor=46e3b7"><img></a>
@@ -17,12 +17,6 @@
     <a href="https://railway.app/new/template/NZymFf?referralCode=cuXSLZ"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
     <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TheUnexpectedValidations/docusauruss&branch=main&name=docusaurus"><img height="30px" src="https://img.shields.io/badge/koyeb-121212.svg?style=for-the-badge&logo=koyeb&logoColor=87fcc4"><img></a>
 </div>
-
-## Discord Server
-
-Press the join button to join the server:
-
-[![Join us on Discord](https://invidget.switchblade.xyz/4P2AgBPYxw?theme=dark)](https://discord.gg/4P2AgBPYxw)
 
 ## Overview
 
