@@ -1,6 +1,6 @@
 <div align="center">
          
-<img src="https://socialify.git.ci/plooshi/Docs/image?description=1&descriptionEditable=Evade%20censorship&font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fplooshi%2FDocs%2Fmain%2Fstatic%2Findex.svg&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" alt="Incognito" width="640" height="320" />
+<img src="https://town-docs.vercel.app/img/logo.svg" alt="Incognito" width="640" height="320" />
 
 <a href="" alt="Made with NodeJS"><img src="https://img.shields.io/badge/Made%20with-Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> 
 <a href="https://github.com/plooshi/Docs/graphs/contributors/" alt=""><img src="https://img.shields.io/github/contributors/plooshi/Docs?style=for-the-badge"></a>
