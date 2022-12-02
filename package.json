@@ -1,7 +1,7 @@
 {
-  "name": "plooshidocs",
+  "name": "docusaurus",
   "version": "1.0.0",
-  "description": "Plooshi docs",
+  "description": "docusaurus beta",
   "type": "module",
   "scripts": {
     "start": "node index.js",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plooshi/Docs"
+    "url": "git+https://github.com/TheUnexpectedValidations/Docusaurus"
   },
   "keywords": [
     "unoffical",
@@ -29,7 +29,7 @@
     "bypass-filter",
     "amethystnetwork-dev"
   ],
-  "author": "guacaplushy",
+  "author": "TheUnexpectedValidations",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@tomphttp/bare-server-node": "1.0.4-deps1",
