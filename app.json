@@ -1,7 +1,7 @@
 {
-    "name": "Incognito",
-    "description": "Unofficial Incognito easy deployment version with TompHTTP bare server included.",
-    "repository": "https://github.com/amethystnetwork-dev/Incognito",
-    "logo": "https://github.com/amethystnetwork-dev/Incognito/blob/main/static/index.svg?raw=true",
+    "name": "Docusaurus",
+    "description": "Unofficial Docusaurus Beta!",
+    "repository": "https://github.com/TheUnexpectedValidations/docusaurus",
+    "logo": "https://camo.githubusercontent.com/b35d3c7315ed3b9aad469005d3eb01190bc734f5f9898e5b89227be2cdd0e930/68747470733a2f2f746f776e2d646f63732e76657263656c2e6170702f696d672f6c6f676f2e737667",
     "keywords": ["unoffical", "ultraviolet", "unblock", "titaniumnetwork", "bypass-filter", "amethystnetwork-dev"]
 }
