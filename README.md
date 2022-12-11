@@ -1,6 +1,7 @@
 <div align="center">
          
-<img src="https://town-docs.vercel.app/img/logo.svg" alt="Docusaurus" width="640" height="320" />
+<img src="<img src="https://minecraft-max.com/wp-content/uploads/posts/resources/15244-netherite-ingot.png" alt="How to make Netherite Ingot in Minecraft | Minecraft-Max.com"/>![image](https://user-images.githubusercontent.com/114841605/206883062-2ed71729-86d5-4d41-bd52-28ab669435d4.png)
+" alt="Docusaurus" width="640" height="320" />
 
 <a href="" alt="Made with NodeJS"><img src="https://img.shields.io/badge/Made%20with-Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> 
 <a href="https://github.com/plooshi/Docs/graphs/contributors/" alt=""><img src="https://img.shields.io/github/contributors/plooshi/Docs?style=for-the-badge"></a>
